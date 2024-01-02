@@ -1,0 +1,8 @@
+hello/thymeleaf/basic/TemplateController.java
+ hello.thymeleaf.basic.TemplateController
+hello/thymeleaf/ThymeleafBasicApplication.java
+ hello.thymeleaf.ThymeleafBasicApplication
+hello/thymeleaf/basic/BasicController.java
+ hello.thymeleaf.basic.BasicController
+ hello.thymeleaf.basic.BasicController$HelloBean
+ hello.thymeleaf.basic.BasicController$User
